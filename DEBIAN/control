@@ -1,7 +1,7 @@
 Package: niettelabs-phonetisaurus-g2p
-Version: 0.0.1-alpha
+Version: 0.0.2-alpha
 Architecture: arch_bin
 Maintainer: Pallas da Silva Guedes <edsondasilvaguedes0@gmail.com>
 Priority: optional
 Homepage: https://github.com/NietteLabs/phonetisaurus-deb
-Description: Binarios do G2P para o NietteTTS.
+Description: Binary with Phonetisaurus G2P with OpenFST 1.8.4
