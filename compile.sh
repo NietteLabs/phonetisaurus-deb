@@ -1,7 +1,4 @@
 #!/bin/bash
-
-
-
 # Compile Phonetisaurus for amd64, armhf arm64 arch's.
 git clone https://github.com/NietteLabs/Phonetisaurus
 sudo apt install gcc-13-multilib gcc-13-arm-linux-gnueabihf gcc-13-aarch64-linux-gnu gcc-13-x86-64-linux-gnu gcc-13 g++-13-multilib g++-13-aarch64-linux-gnu g++-13-arm-linux-gnueabihf g++-13-x86-64-linux-gnu
